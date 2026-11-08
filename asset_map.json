@@ -1,0 +1,414 @@
+{
+  "asset_count": 63,
+  "counts": {
+    "images": 40,
+    "videos": 17,
+    "other": 1,
+    "pdfs": 5
+  },
+  "total_bytes": 273128685,
+  "assets": [
+    {
+      "source": "frames/01_lodha/felicitation by vice chancellor, Somak Raychaudhury.jpg",
+      "file": "final_frames/01_lodha_certificate.jpg",
+      "bytes": 149974,
+      "sha256": "9555319c5a2a60c38e116b206154d0545609f6a2bf5840b92043dedca090ebb3"
+    },
+    {
+      "source": "frames/01_lodha/VID-20240617-WA0014.mp4",
+      "file": "final_frames/01_lodha_ceremony.mp4",
+      "bytes": 4796036,
+      "sha256": "f1f83775234497af3fec5a06aa926c39ad9f08a7f90f091e932f7216d4bcfca6"
+    },
+    {
+      "source": "frames/01_lodha/IMG-20240619-WA0024.jpg",
+      "file": "final_frames/01_lodha_friends.jpg",
+      "bytes": 537740,
+      "sha256": "ae0c548e72b8f45e2a2fc59d58be0dcdf0a51340e55bf8e4af75968d8ff80848"
+    },
+    {
+      "source": "frames/02_awards/1681887697659.jpg",
+      "file": "final_frames/02_awards_web_design.jpg",
+      "bytes": 104494,
+      "sha256": "8555eb3b04677f7b162ce7e237f92187cb6817200ac8f5e2324b3a05c7e6c77e"
+    },
+    {
+      "source": "frames/02_awards/1710862641525.jpeg",
+      "file": "final_frames/02_awards_web_trophy.jpeg",
+      "bytes": 159348,
+      "sha256": "a0e6d2a6551939038fe5157f7689708442e765e8fe099fb62e8b93b7d125c68a"
+    },
+    {
+      "source": "frames/02_awards/1708665971661.jpg",
+      "file": "final_frames/02_awards_mindbox.jpg",
+      "bytes": 190186,
+      "sha256": "a2ae70652f47ec8b955ae2315bc985cee304ffff686dc30dd361143c3f7d39d9"
+    },
+    {
+      "source": "frames/02_awards/1710610781524.jpeg",
+      "file": "final_frames/02_awards_certificates.jpeg",
+      "bytes": 136107,
+      "sha256": "380b57cd6706c2f18c0cc987bee748b736b86095813338ee277e4ea244fed398"
+    },
+    {
+      "source": "frames/02_awards/1722221185695.jpeg",
+      "file": "final_frames/02_awards_stage.jpeg",
+      "bytes": 117155,
+      "sha256": "26d6adade67536d879c2353380dde06d4212afd9aa358db5604feef1152315f3"
+    },
+    {
+      "source": "frames/02_awards/1738585177244.jpeg",
+      "file": "final_frames/02_awards_trophy_team.jpeg",
+      "bytes": 169882,
+      "sha256": "a24268a40dc383f3bc611ee78c7ffbc489be9047a6d98a810003cee6fb52f0bf"
+    },
+    {
+      "source": "frames/02_awards/1746968018363.jpeg",
+      "file": "final_frames/02_awards_cabinet.jpeg",
+      "bytes": 128483,
+      "sha256": "06a5984751833cf511d5e671f7bb6e7648f2735ee08dfcb9feef39da3b5b97fd"
+    },
+    {
+      "source": "frames/02_awards/IMG_1262.jpg",
+      "file": "final_frames/02_awards_mentors.jpg",
+      "bytes": 573399,
+      "sha256": "b7d78dc3568a24ff388133238393ee47b0cd34631cf5f740ad1794ce9d1ace07"
+    },
+    {
+      "source": "frames/03_lodha_meeting/IMG_20250326_134226.jpg",
+      "file": "final_frames/03_lodha_portrait.jpg",
+      "bytes": 3306981,
+      "sha256": "3158a70d817997ca939a87f8fc91858d3efdfe09865db2a8a207081d87b3d73f"
+    },
+    {
+      "source": "frames/03_lodha_meeting/Yash Varshney.mp4",
+      "file": "final_frames/03_lodha_video_byte.mp4",
+      "bytes": 8260617,
+      "sha256": "ca4268acabf4a3f871abcaff2f03ba9b5a9803ca2d200f8ccc1e940854810024",
+      "source_bytes": 160319021,
+      "source_sha256": "ef9e9a9deda11bc280b1b52c2c6811c8ed001f2f065cb6aaa7530c205b3d6066"
+    },
+    {
+      "source": "frames/03_lodha_meeting/with Chavi & Satyam.jpg",
+      "file": "final_frames/03_lodha_panel.jpg",
+      "bytes": 3054238,
+      "sha256": "e692610ce6c83d876e62407fa8070d23bb49778e9ab9e1899af9e2415c2d95fb"
+    },
+    {
+      "source": "frames/04_campus/11.jpg",
+      "file": "final_frames/04_campus_telescopes.jpg",
+      "bytes": 191553,
+      "sha256": "a62c5a28ae49456d9fdac351cf2fc80df41d3cc1e55877e18d3295ec7c57017e"
+    },
+    {
+      "source": "frames/04_campus/in hdfc library with friends.JPG",
+      "file": "final_frames/04_campus_library.jpg",
+      "bytes": 4700420,
+      "sha256": "ee479cf686598e3c71b9b4b04da5f402b8896d12c2c67721f20ecb5493521163"
+    },
+    {
+      "source": "frames/04_campus/with friends.jpg",
+      "file": "final_frames/04_campus_friends.jpg",
+      "bytes": 409529,
+      "sha256": "34e75d4242f8ce718cb84f081d0f0ed0509e0d829715a6992ba706092476e3b5"
+    },
+    {
+      "source": "frames/04_campus/IMG-20240520-WA0001.jpg",
+      "file": "final_frames/04_campus_math_lecture.jpg",
+      "bytes": 115699,
+      "sha256": "3ea2cca84df9f09ee0984e0de4cf752ce2d381550445cc262b0d377a60bb6e34"
+    },
+    {
+      "source": "frames/04_campus/20240521_114908.jpg",
+      "file": "final_frames/04_campus_math_proof.jpg",
+      "bytes": 2979797,
+      "sha256": "9a601db40001999dfc8a35ce0bccb152a27947536fd66a74a7d3e6172c151559"
+    },
+    {
+      "source": "frames/04_campus/Yash's Table.jpg",
+      "file": "final_frames/04_campus_table.jpg",
+      "bytes": 2254343,
+      "sha256": "fd90a27e2410b7564e9a06099e2409d67be54c846d1ec5ac984e12a820d8bdba"
+    },
+    {
+      "source": "frames/04_campus/siuuu2.mkv",
+      "file": "final_frames/04_campus_badminton.mkv",
+      "bytes": 3736017,
+      "sha256": "e401036044f306db9a66ee165475f076fc4af36041984cd1e1f4084336ddb7dc",
+      "source_bytes": 123866659,
+      "source_sha256": "8584ad9d7e54c755d9009302c854e797077ea0ac424d112cdc29ca109594b6d9"
+    },
+    {
+      "source": "frames/05_samsung_finale/Felicitated by CEO of samsung at FInale, ITC maurya Ball room.jpg",
+      "file": "final_frames/05_samsung_felicitation.jpg",
+      "bytes": 528663,
+      "sha256": "8ce56b0f2c2d73014c154cbf5620d048f7f3f0a749ca430132b9d4b02faa0efb"
+    },
+    {
+      "source": "frames/05_samsung_finale/final with all leaders.jpg",
+      "file": "final_frames/05_samsung_leaders.jpg",
+      "bytes": 18101199,
+      "sha256": "26a37614c9808ce3e3f379f6157dd0ccd75b3d13384dde37c92a66745d97ba12"
+    },
+    {
+      "source": "frames/05_samsung_finale/Pitch Event.jpg",
+      "file": "final_frames/05_samsung_pitch.jpg",
+      "bytes": 6827649,
+      "sha256": "7624139c8192f2be1ac01d95ad342b69f058233195b70fa26a09c3192395947d"
+    },
+    {
+      "source": "frames/05_samsung_finale/trophy.jpg",
+      "file": "final_frames/05_samsung_trophy.jpg",
+      "bytes": 2476807,
+      "sha256": "8f93a4f40ca7ba23d986f29b3871397392a73bcee03ec6cb0e19bdf46c08fc3c"
+    },
+    {
+      "source": "frames/06_fireside/1 -should be bigger than others.mp4",
+      "file": "final_frames/06_fireside_01_opening.mp4",
+      "bytes": 4048971,
+      "sha256": "1b6ccabbc1effed2aa59e7931be2051a3e3e83568e67076a98f88862a89ddce9",
+      "source_bytes": 30923356,
+      "source_sha256": "389760b1af7f08d4eac786ce86c854b79413585c541ba305e868469c3414b7c6"
+    },
+    {
+      "source": "frames/06_fireside/2.mp4",
+      "file": "final_frames/06_fireside_02.mp4",
+      "bytes": 18804851,
+      "sha256": "b50902ad715d8d48dc3de470af4586d3be50df30a2d7357087ef5266e461be0e"
+    },
+    {
+      "source": "frames/06_fireside/3.mp4",
+      "file": "final_frames/06_fireside_03.mp4",
+      "bytes": 8267444,
+      "sha256": "696f6ac3ce214243c12747100fbe1b93afe2112bc330a541b7aa0e23bca5ed1e"
+    },
+    {
+      "source": "frames/06_fireside/4.mp4",
+      "file": "final_frames/06_fireside_04.mp4",
+      "bytes": 16586938,
+      "sha256": "15cb6ef45e1b04fece4dbfcaf0e0495835090d08fbc212b96c891fa58d279f88"
+    },
+    {
+      "source": "frames/06_fireside/5.mp4",
+      "file": "final_frames/06_fireside_05.mp4",
+      "bytes": 3531306,
+      "sha256": "380429eff0d034561c08b34849dd4271316c3146dad31decea2b4a98c89613ab",
+      "source_bytes": 26819232,
+      "source_sha256": "bdd35bbef4386ae8e9790d02f82494d78bd84344bd89beebaa898701e3fa2b5f"
+    },
+    {
+      "source": "frames/06_fireside/6.mp4",
+      "file": "final_frames/06_fireside_06.mp4",
+      "bytes": 6657432,
+      "sha256": "72fe1986895b226d8863a3f53bef4849ecb9f1ae0c32c44b2674e96991d98413"
+    },
+    {
+      "source": "frames/06_fireside/7.mp4",
+      "file": "final_frames/06_fireside_07.mp4",
+      "bytes": 6555009,
+      "sha256": "4e7aaefdb048a00ac8ee5bddaedc1b451e74cdac01739bb5ad83ece809861f92",
+      "source_bytes": 42110292,
+      "source_sha256": "d787a990ebb783cabf3dbe45593173823a2af4c205e60ef479f4145c2ae469c3"
+    },
+    {
+      "source": "frames/07_fieldwork/WhatsApp Image 2026-08-31 at 10.21.23 PM (1).jpeg",
+      "file": "final_frames/07_fieldwork_villagers.jpeg",
+      "bytes": 194938,
+      "sha256": "caa1133091e0a6a1d9928caedb47b5f5f6e4f1a2d0f0a2a658275737668493b4"
+    },
+    {
+      "source": "frames/07_fieldwork/WhatsApp Image 2026-08-31 at 10.21.15 PM (1).jpeg",
+      "file": "final_frames/07_fieldwork_damaged_home.jpeg",
+      "bytes": 93692,
+      "sha256": "c6589ac973f339dbfe2ab2b9745d18d502f7c048271ad945a3ce1186dbf5f2b2"
+    },
+    {
+      "source": "frames/07_fieldwork/WhatsApp Image 2026-08-31 at 10.21.20 PM (2).jpeg",
+      "file": "final_frames/07_fieldwork_crops.jpeg",
+      "bytes": 399802,
+      "sha256": "2eea67d88d19ed689603ca13e4a8f289f8a09cb45d713ae0c5bcaf2c61841fb8"
+    },
+    {
+      "source": "frames/07_fieldwork/WhatsApp Image 2026-08-31 at 10.21.22 PM (1).jpeg",
+      "file": "final_frames/07_fieldwork_wall_breach.jpeg",
+      "bytes": 133643,
+      "sha256": "204b375beb6648dc528f6c6d37604430057e05568656e3ab5e6e7a979b8ec00c"
+    },
+    {
+      "source": "frames/07_fieldwork/WhatsApp Image 2026-08-31 at 10.21.21 PM (2).jpeg",
+      "file": "final_frames/07_fieldwork_belongings.jpeg",
+      "bytes": 91210,
+      "sha256": "2128c4efbe46bf04f75683ffde8b75b014de31fb52cb8e7c9e1370f39088b461"
+    },
+    {
+      "source": "frames/07_fieldwork/WhatsApp Image 2026-08-31 at 10.21.18 PM (2).jpeg",
+      "file": "final_frames/07_fieldwork_paddy_field.jpeg",
+      "bytes": 184245,
+      "sha256": "8475593e7ddeb756046b4f75ae8701c7ef1954b7b5840db9d35cc1cd961516b3"
+    },
+    {
+      "source": "frames/08_interviews/dikkat kya hai  (1).MOV",
+      "file": "final_frames/08_interview_crop_raids.mov",
+      "bytes": 9149028,
+      "sha256": "954c53ef10efc177da50f25bd23ef80923d99d475d6cb153a637c8aa603ea919",
+      "source_bytes": 35805872,
+      "source_sha256": "ba52e95c2fd9dccbc9d7978218701eea4ae28681cdeeceda6a39f615a80b2d2b"
+    },
+    {
+      "source": "frames/08_interviews/RAAT MAI HATHI PROB - ARJUN BHUIYA   (1).MOV",
+      "file": "final_frames/08_interview_night_visibility.mov",
+      "bytes": 10065940,
+      "sha256": "57a5700c9279cf5b94005829bb95801b375d8bfc2222de6a82dc143462255e58",
+      "source_bytes": 29365998,
+      "source_sha256": "6226cfc340c60cf122321d20d8ca152b47ea6881f10af363fc454055a2334e44"
+    },
+    {
+      "source": "frames/08_interviews/USE KRNA ISSE - BASIRRUDIN ANSARI  (1).MOV",
+      "file": "final_frames/08_interview_forest_guard.mov",
+      "bytes": 4912279,
+      "sha256": "14d92502a924132fd23aedd3def3d1682720aff6c4f4741c5812f5733e964e2d",
+      "source_bytes": 40502622,
+      "source_sha256": "8b3bffd298ef4f91ad3b59e7aff6e91dc7691b0b4f8589dd9e09bc41ea75b389"
+    },
+    {
+      "source": "frames/09_science_fair/IMG-20251122-WA0038.jpg",
+      "file": "final_frames/09_science_fair_display.jpg",
+      "bytes": 1223410,
+      "sha256": "879901cf3eae33d1d4d435c70eeff2091954e6a2bcce5622b751f60c3bff891d"
+    },
+    {
+      "source": "frames/09_science_fair/2.jpg",
+      "file": "final_frames/09_science_fair_presentation.jpg",
+      "bytes": 134764,
+      "sha256": "9fefaa32acb2c9fcf0f8cff80348b2cdb96e7d0a3f972a0aefefa73f46c5d177"
+    },
+    {
+      "source": "frames/10_football/Outdoor Football Match with Players 7 and 82.png",
+      "file": "final_frames/10_football_midfield.png",
+      "bytes": 2730922,
+      "sha256": "92686a63e109045dd2a401ebf7d6afa32bd8b104963e09694759107dab883522"
+    },
+    {
+      "source": "frames/10_football/IMG_20250902_152948.jpg",
+      "file": "final_frames/10_technoxian_flag.jpg",
+      "bytes": 4842268,
+      "sha256": "34e69bfd8b70757f94910dc16c93eca20fac9e58f404de389e4217a8f3e68059"
+    },
+    {
+      "source": "frames/11_bootcamp/With CEO of Samsung at Samsung Headquarters in gurugram, JongBum Park.jpg",
+      "file": "final_frames/11_bootcamp_samsung_ceo.jpg",
+      "bytes": 1004192,
+      "sha256": "873fdf352bd8147f1aafd674563e3628e36eced8785ae7240135de5f20bbde3d"
+    },
+    {
+      "source": "frames/11_bootcamp/with CSR head of samsung, and VP of samsung.JPG",
+      "file": "final_frames/11_bootcamp_samsung_leaders.jpg",
+      "bytes": 9622306,
+      "sha256": "98d43329e55cd6e8cf46931d8a07f52eaf4ad69c8c7ff7f89dbbbdf099c26171",
+      "source_bytes": 22280350,
+      "source_sha256": "472e27490ebbf8b32dd74ce121a3b3aaa2a771381f2645c2570238cb7acb8565"
+    },
+    {
+      "source": "frames/11_bootcamp/At the top40 pitch, at IIT DELHI.png",
+      "file": "final_frames/11_bootcamp_iit_pitch.png",
+      "bytes": 16406384,
+      "sha256": "924860e3f68c96fba2313eb57e5cb92ba810d4abef40e771132c04a341d51767",
+      "source_bytes": 22581767,
+      "source_sha256": "9077105ebfb22ec2c1a6962ec0a8431752df5e005d41db4168811a36f44795f4"
+    },
+    {
+      "source": "frames/11_bootcamp/IIT delhi entry image.jpg",
+      "file": "final_frames/11_bootcamp_iit_entry.jpg",
+      "bytes": 5044667,
+      "sha256": "7f81b00df1c6b92ad4d52e84b7772d11a6639c5f7da04818811e2127bc208a20"
+    },
+    {
+      "source": "frames/11_bootcamp/IMG_3401_result_result.png",
+      "file": "final_frames/11_bootcamp_cohort.png",
+      "bytes": 8049371,
+      "sha256": "a48c0786de281283fce53f64f97562584414fc41c1ebf49e36afebf6e78a0d02"
+    },
+    {
+      "source": "frames/12_early_yash/IMG_4180.JPG",
+      "file": "final_frames/12_early_yash_coding.jpg",
+      "bytes": 6563605,
+      "sha256": "c9654df66f07f5136b3e8fdcf8a312a9c6999429a3c654749248343d341a0b5a"
+    },
+    {
+      "source": "frames/12_early_yash/IMG_4129.JPG",
+      "file": "final_frames/12_early_yash_desk.jpg",
+      "bytes": 7073842,
+      "sha256": "4bdb9d96f46b71dbb064c04e165439e20074cb13f290354e71ea6e11c7a240f2"
+    },
+    {
+      "source": "frames/12_early_yash/Working On Python _ Python _ PyCharm _ Class V-C _ Gurukul The School _ Created By Yash Varshney - Trim.mp4",
+      "file": "final_frames/12_python_lesson_01.mp4",
+      "bytes": 16656403,
+      "sha256": "6176d03206498b838fb303c99d8d7937407e1208b5c34dc5d48c9c800558c135"
+    },
+    {
+      "source": "frames/12_early_yash/Working On Python _ Part-2 _ Python _ PyCharm _ Class V-C _ GTS _ Created By Yash Varshney - Trim.mp4",
+      "file": "final_frames/12_python_lesson_02.mp4",
+      "bytes": 15037606,
+      "sha256": "6ddf69ea39dec6422944067975baf58a252d3bf41445fd1ecaa9e524764613a5"
+    },
+    {
+      "source": "frames/12_early_yash/Working On Python _ Part -3 _ Python _ PyCharm _ Class 5 _ GTS  _ Yash Varshney Creativities _ - Trim.mp4",
+      "file": "final_frames/12_python_lesson_03.mp4",
+      "bytes": 16453946,
+      "sha256": "53dc88b21e883150deb5b2f5e8e0ed509f71a628bd7adbf34b8eca7765206d89",
+      "source_bytes": 195390536,
+      "source_sha256": "c7f01cf098e07f4e9ae87236d5d3154d3912397805f6dba10de207855bbbc592"
+    },
+    {
+      "source": "frames/13_secret/468557728_10162813222238840_5761373512358625827_n.jpg",
+      "file": "final_frames/13_secret_original.jpg",
+      "bytes": 241085,
+      "sha256": "31e30e6822aaa14b12b27fcfd13b96e4f8af1a0fbfcd1011b292132618ea62f7"
+    },
+    {
+      "source": "frames/DIRECTORY_MAP.md",
+      "file": "final_frames/source_frames_map.md",
+      "bytes": 2780,
+      "sha256": "349f013b5013dd78a36425f89b9246d02211d0dba768ac81135bed7ca58574ef"
+    },
+    {
+      "source": "conference-presentation-certificate.pdf",
+      "file": "final_frames/conference_certificate.pdf",
+      "bytes": 383796,
+      "sha256": "c71420040ba0abac2f805ebd9fb21eca3e8f419b70ebf58c98f32dddfa80e906"
+    },
+    {
+      "source": "gallery.mp4",
+      "file": "final_frames/gallery_intro.mp4",
+      "bytes": 6085905,
+      "sha256": "bf5decf20f4337ef8c2b4094654b58296b0afb915f2c59263ed86addfc725944",
+      "source_bytes": 56986951,
+      "source_sha256": "b6007af882916c68fd9677bae277a7dc0bf5098b7ceda1c8314715cdcc584781"
+    },
+    {
+      "source": "lor-agnivesh-pandey.pdf",
+      "file": "final_frames/recommendation_agnivesh_pandey.pdf",
+      "bytes": 990522,
+      "sha256": "8692a78a843c74680e3aafa8a3630989bdbfbf467a347b0c66eda5acd31620fc"
+    },
+    {
+      "source": "lor-anurag-sinha.pdf",
+      "file": "final_frames/recommendation_anurag_sinha.pdf",
+      "bytes": 551510,
+      "sha256": "e54aac06fe558ff71d3b0f244527a8941699e3e2f77217fbcd4624e666fb503b"
+    },
+    {
+      "source": "lor-ayodele-lasisi.pdf",
+      "file": "final_frames/recommendation_ayodele_lasisi.pdf",
+      "bytes": 229748,
+      "sha256": "240bdf82b922559a878f048ad0c0c82fcd3bbefbe06bdbd5b6208df7319372d2"
+    },
+    {
+      "source": "lor-deepak-uprety.pdf",
+      "file": "final_frames/recommendation_deepak_uprety.pdf",
+      "bytes": 116609,
+      "sha256": "dfa89bb1928c05483830a830b36d751a3085b47230dd99297c55bea53ecda426"
+    }
+  ]
+}
