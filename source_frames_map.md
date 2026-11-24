@@ -2,7 +2,7 @@
 
 Root: `frames/`
 
-Contents: **13 folders**, **56 media files** (40 images, 16 videos). This map is excluded from the counts and tree.
+Contents: **13 folders**, **61 media files** (44 images, 17 videos). This map is excluded from the counts and tree.
 
 Folders 01 through 12 are public gallery frames; `13_secret` contains the hidden origin photo.
 
@@ -20,7 +20,11 @@ frames/
 |   |-- 1722221185695.jpeg
 |   |-- 1738585177244.jpeg
 |   |-- 1746968018363.jpeg
-|   \-- IMG_1262.jpg
+|   |-- ATL Fest at AMbience public school, delhi, runner up position with my teammate tranav tyagi.jpg
+|   |-- IMG_1262.jpg
+|   |-- kechnovation interschool techfest at khaitan public school, chilling with the first prize with my teammate tarang .jpg
+|   |-- winner at infinitus techfest at delhi public school, ghaziabad.jpg
+|   \-- winner at kechnovation interschool techfest yet again just next year with tarang on stage.jpg
 |-- 03_lodha_meeting/
 |   |-- IMG_20250326_134226.jpg
 |   |-- with Chavi & Satyam.jpg
@@ -37,6 +41,7 @@ frames/
 |   |-- Felicitated by CEO of samsung at FInale, ITC maurya Ball room.jpg
 |   |-- final with all leaders.jpg
 |   |-- Pitch Event.jpg
+|   |-- put this video in samsung finale section, here i am explaining the problme statement with more clarity with the case study of palamu tiger reserve maps.mp4
 |   \-- trophy.jpg
 |-- 06_fireside/
 |   |-- 1 -should be bigger than others.mp4
@@ -77,3 +82,4 @@ frames/
 |   \-- Working On Python _ Python _ PyCharm _ Class V-C _ Gurukul The School _ Created By Yash Varshney - Trim.mp4
 \-- 13_secret/
     \-- 468557728_10162813222238840_5761373512358625827_n.jpg
+```

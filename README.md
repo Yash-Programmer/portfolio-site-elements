@@ -6,7 +6,7 @@ Keep `index.html` beside `final_frames/` when publishing. The page loads its gal
 
 `frames/` is for development source media only and is not required to run or publish the site. The live page loads its local assets exclusively from `final_frames/`. `source_frames_map.md` describes the development archive; the source paths below record each asset's original location.
 
-63 published asset files: 40 images, 17 videos, 5 PDFs, and 1 directory map.
+68 published asset files: 44 images, 18 videos, 5 PDFs, and 1 directory map.
 
 Oversized media was optimized after copying. Every published file is below 19,000,000 bytes; videos processed in this optimization are below 18,000,000 bytes. MP4 and MOV outputs use H.264, AAC, and faststart; the MKV retains its container with its index at the front.
 
@@ -25,6 +25,10 @@ Oversized media was optimized after copying. Every published file is below 19,00
 | [02_awards_trophy_team.jpeg](02_awards_trophy_team.jpeg) | `frames/02_awards/1738585177244.jpeg` |
 | [02_awards_cabinet.jpeg](02_awards_cabinet.jpeg) | `frames/02_awards/1746968018363.jpeg` |
 | [02_awards_mentors.jpg](02_awards_mentors.jpg) | `frames/02_awards/IMG_1262.jpg` |
+| [02_awards_atl_ambience.jpg](02_awards_atl_ambience.jpg) | `frames/02_awards/ATL Fest at AMbience public school, delhi, runner up position with my teammate tranav tyagi.jpg` |
+| [02_awards_kechnovation_khaitan.jpg](02_awards_kechnovation_khaitan.jpg) | `frames/02_awards/kechnovation interschool techfest at khaitan public school, chilling with the first prize with my teammate tarang .jpg` |
+| [02_awards_kechnovation_stage.jpg](02_awards_kechnovation_stage.jpg) | `frames/02_awards/winner at kechnovation interschool techfest yet again just next year with tarang on stage.jpg` |
+| [02_awards_infinitus_dps.jpg](02_awards_infinitus_dps.jpg) | `frames/02_awards/winner at infinitus techfest at delhi public school, ghaziabad.jpg` |
 | [03_lodha_portrait.jpg](03_lodha_portrait.jpg) | `frames/03_lodha_meeting/IMG_20250326_134226.jpg` |
 | [03_lodha_video_byte.mp4](03_lodha_video_byte.mp4) | `frames/03_lodha_meeting/Yash Varshney.mp4` |
 | [03_lodha_panel.jpg](03_lodha_panel.jpg) | `frames/03_lodha_meeting/with Chavi & Satyam.jpg` |
@@ -38,6 +42,7 @@ Oversized media was optimized after copying. Every published file is below 19,00
 | [05_samsung_felicitation.jpg](05_samsung_felicitation.jpg) | `frames/05_samsung_finale/Felicitated by CEO of samsung at FInale, ITC maurya Ball room.jpg` |
 | [05_samsung_leaders.jpg](05_samsung_leaders.jpg) | `frames/05_samsung_finale/final with all leaders.jpg` |
 | [05_samsung_pitch.jpg](05_samsung_pitch.jpg) | `frames/05_samsung_finale/Pitch Event.jpg` |
+| [05_samsung_pitch_palamu.mp4](05_samsung_pitch_palamu.mp4) | `frames/05_samsung_finale/put this video in samsung finale section, here i am explaining the problme statement with more clarity with the case study of palamu tiger reserve maps.mp4` |
 | [05_samsung_trophy.jpg](05_samsung_trophy.jpg) | `frames/05_samsung_finale/trophy.jpg` |
 | [06_fireside_01_opening.mp4](06_fireside_01_opening.mp4) | `frames/06_fireside/1 -should be bigger than others.mp4` |
 | [06_fireside_02.mp4](06_fireside_02.mp4) | `frames/06_fireside/2.mp4` |

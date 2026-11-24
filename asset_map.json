@@ -1,12 +1,12 @@
 {
-  "asset_count": 63,
+  "asset_count": 68,
   "counts": {
-    "images": 40,
-    "videos": 17,
+    "images": 44,
+    "videos": 18,
     "other": 1,
     "pdfs": 5
   },
-  "total_bytes": 273128685,
+  "total_bytes": 293833539,
   "assets": [
     {
       "source": "frames/01_lodha/felicitation by vice chancellor, Somak Raychaudhury.jpg",
@@ -409,6 +409,36 @@
       "file": "final_frames/recommendation_deepak_uprety.pdf",
       "bytes": 116609,
       "sha256": "dfa89bb1928c05483830a830b36d751a3085b47230dd99297c55bea53ecda426"
+    },
+    {
+      "source": "frames/05_samsung_finale/put this video in samsung finale section, here i am explaining the problme statement with more clarity with the case study of palamu tiger reserve maps.mp4",
+      "file": "final_frames/05_samsung_pitch_palamu.mp4",
+      "bytes": 17260270,
+      "sha256": "979119c4a9aac9a6cee95bfaf501d2b52c437c8b671197ca450527fbe53e3113"
+    },
+    {
+      "source": "frames/02_awards/ATL Fest at AMbience public school, delhi, runner up position with my teammate tranav tyagi.jpg",
+      "file": "final_frames/02_awards_atl_ambience.jpg",
+      "bytes": 1029689,
+      "sha256": "9e66eddb45f9b0b35f4a0ad65e1b84266f87bbaa7d4a0c0a0406d71abede222e"
+    },
+    {
+      "source": "frames/02_awards/kechnovation interschool techfest at khaitan public school, chilling with the first prize with my teammate tarang .jpg",
+      "file": "final_frames/02_awards_kechnovation_khaitan.jpg",
+      "bytes": 1413694,
+      "sha256": "cca62e06f6f7a46abb760d8b0fadedf2766192ae7153d966b762841b63711ac7"
+    },
+    {
+      "source": "frames/02_awards/winner at kechnovation interschool techfest yet again just next year with tarang on stage.jpg",
+      "file": "final_frames/02_awards_kechnovation_stage.jpg",
+      "bytes": 855476,
+      "sha256": "be4e43b02a2e508511a82d4368acb115dde4082936f486f67675a3c3c3d6a68b"
+    },
+    {
+      "source": "frames/02_awards/winner at infinitus techfest at delhi public school, ghaziabad.jpg",
+      "file": "final_frames/02_awards_infinitus_dps.jpg",
+      "bytes": 145725,
+      "sha256": "e9a67f1ae0c1625fbfb8e096f509f5f560d6c1b62665a8bdda7370a989a2d8dc"
     }
   ]
 }
