@@ -6,7 +6,7 @@
     "other": 1,
     "pdfs": 5
   },
-  "total_bytes": 339379159,
+  "total_bytes": 259000831,
   "assets": [
     {
       "source": "frames/01_lodha/felicitation by vice chancellor, Somak Raychaudhury.jpg",
@@ -103,8 +103,8 @@
     {
       "source": "frames/04_campus/in hdfc library with friends.JPG",
       "file": "final_frames/04_campus_library.jpg",
-      "bytes": 4700420,
-      "sha256": "ee479cf686598e3c71b9b4b04da5f402b8896d12c2c67721f20ecb5493521163"
+      "bytes": 361023,
+      "sha256": "351393087d9b74fe393ce0714ebc260ea8850012be281b62e300161e42c41dbf"
     },
     {
       "source": "frames/04_campus/with friends.jpg",
@@ -147,14 +147,14 @@
     {
       "source": "frames/05_samsung_finale/final with all leaders.jpg",
       "file": "final_frames/05_samsung_leaders.jpg",
-      "bytes": 18101199,
-      "sha256": "26a37614c9808ce3e3f379f6157dd0ccd75b3d13384dde37c92a66745d97ba12"
+      "bytes": 372299,
+      "sha256": "2c66cd7183da73c41cc37ad69552f1d6f2e360635cc09ef8617abe8228732f21"
     },
     {
       "source": "frames/05_samsung_finale/Pitch Event.jpg",
       "file": "final_frames/05_samsung_pitch.jpg",
-      "bytes": 6827649,
-      "sha256": "7624139c8192f2be1ac01d95ad342b69f058233195b70fa26a09c3192395947d"
+      "bytes": 368521,
+      "sha256": "0a780c196b78273f895064c67550654da5a5d1e0e93c440faa0e3f1d79201bb3"
     },
     {
       "source": "frames/05_samsung_finale/trophy.jpg",
@@ -291,8 +291,8 @@
     {
       "source": "frames/10_football/IMG_20250902_152948.jpg",
       "file": "final_frames/10_technoxian_flag.jpg",
-      "bytes": 4842268,
-      "sha256": "34e69bfd8b70757f94910dc16c93eca20fac9e58f404de389e4217a8f3e68059"
+      "bytes": 403989,
+      "sha256": "f76ac1a8063648e45f2367fe5ae6dce2b6f7fbda165d9ddc7a4f3244417b251c"
     },
     {
       "source": "frames/11_bootcamp/With CEO of Samsung at Samsung Headquarters in gurugram, JongBum Park.jpg",
@@ -303,42 +303,42 @@
     {
       "source": "frames/11_bootcamp/with CSR head of samsung, and VP of samsung.JPG",
       "file": "final_frames/11_bootcamp_samsung_leaders.jpg",
-      "bytes": 9622306,
-      "sha256": "98d43329e55cd6e8cf46931d8a07f52eaf4ad69c8c7ff7f89dbbbdf099c26171",
+      "bytes": 685443,
+      "sha256": "f1604f8d5d222d084950757be7f9bc8797c6a30cdc780032cd6a72c5fc710145",
       "source_bytes": 22280350,
       "source_sha256": "472e27490ebbf8b32dd74ce121a3b3aaa2a771381f2645c2570238cb7acb8565"
     },
     {
       "source": "frames/11_bootcamp/At the top40 pitch, at IIT DELHI.png",
       "file": "final_frames/11_bootcamp_iit_pitch.png",
-      "bytes": 16406384,
-      "sha256": "924860e3f68c96fba2313eb57e5cb92ba810d4abef40e771132c04a341d51767",
+      "bytes": 3316818,
+      "sha256": "d86b5fca30c68d251fbf6b7d08fd57fb9f1e3d7aad563812db9a58bd1a94ba8f",
       "source_bytes": 22581767,
       "source_sha256": "9077105ebfb22ec2c1a6962ec0a8431752df5e005d41db4168811a36f44795f4"
     },
     {
       "source": "frames/11_bootcamp/IIT delhi entry image.jpg",
       "file": "final_frames/11_bootcamp_iit_entry.jpg",
-      "bytes": 5044667,
-      "sha256": "7f81b00df1c6b92ad4d52e84b7772d11a6639c5f7da04818811e2127bc208a20"
+      "bytes": 303718,
+      "sha256": "525907c58b6abcccdad6566e9d3c6a75fdb7c8e625c391049a1e70c2979f6ad1"
     },
     {
       "source": "frames/11_bootcamp/IMG_3401_result_result.png",
       "file": "final_frames/11_bootcamp_cohort.png",
-      "bytes": 8049371,
-      "sha256": "a48c0786de281283fce53f64f97562584414fc41c1ebf49e36afebf6e78a0d02"
+      "bytes": 1600494,
+      "sha256": "b2113b115b5d693c488cba5cd7a6dfabb1c4b7f22298c2420168ed34cb3c5c1a"
     },
     {
       "source": "frames/12_early_yash/IMG_4180.JPG",
       "file": "final_frames/12_early_yash_coding.jpg",
-      "bytes": 6563605,
-      "sha256": "c9654df66f07f5136b3e8fdcf8a312a9c6999429a3c654749248343d341a0b5a"
+      "bytes": 467850,
+      "sha256": "ef64c9ad141b0fa85c7a2a9c5947ca8f4b9d549d468e86f8966f3f6633566f86"
     },
     {
       "source": "frames/12_early_yash/IMG_4129.JPG",
       "file": "final_frames/12_early_yash_desk.jpg",
-      "bytes": 7073842,
-      "sha256": "4bdb9d96f46b71dbb064c04e165439e20074cb13f290354e71ea6e11c7a240f2"
+      "bytes": 252561,
+      "sha256": "4b70a85d6678257e637741ed6180871b7275642861ede626d6ee7c62367cfc12"
     },
     {
       "source": "frames/12_early_yash/Working On Python _ Python _ PyCharm _ Class V-C _ Gurukul The School _ Created By Yash Varshney - Trim.mp4",
@@ -381,8 +381,8 @@
     {
       "source": "gallery.mp4",
       "file": "final_frames/gallery_intro.mp4",
-      "bytes": 6085905,
-      "sha256": "bf5decf20f4337ef8c2b4094654b58296b0afb915f2c59263ed86addfc725944",
+      "bytes": 15208216,
+      "sha256": "8a4472bce4e865de51d495cb139e01a7a97c3bb89dea180076184a130c9a4c66",
       "source_bytes": 56986951,
       "source_sha256": "b6007af882916c68fd9677bae277a7dc0bf5098b7ceda1c8314715cdcc584781"
     },
@@ -443,8 +443,8 @@
     {
       "source": "new/program partners (put in winning 50 lakh one).jpg",
       "file": "final_frames/05_samsung_partners.jpg",
-      "bytes": 8125406,
-      "sha256": "62d3ad0f9b7ef157cbd539a42d7f8e680caf2ab2e9c8f9070406f2ee3afcafc5"
+      "bytes": 862642,
+      "sha256": "b702be57a4485c10cda9da94ddaeeca4cf7cc050b3adec34c606b293a014cc0d"
     },
     {
       "source": "new/at the samsung research institute in noida (put in samsung top 40 ).jpg",
@@ -599,8 +599,8 @@
     {
       "source": "bts/science exhibition/lunch break with teacher mentors.jpg",
       "file": "final_frames/bts_08_scifair_lunch.jpg",
-      "bytes": 3954293,
-      "sha256": "a368c30a25d5b874340ee1b5cdc115fbabc883fbf013036ffa7be37343cc816e"
+      "bytes": 1135286,
+      "sha256": "448e1224aab2644432bd0ad7702f368c04d9caa069670e56d14a2f4893168222"
     },
     {
       "source": "bts/samsung top40/enjoying in bus from the blr airport to hotel.png",
@@ -685,8 +685,8 @@
     {
       "source": "bts/samsung top40/phone got water damage after pool party.mp4",
       "file": "final_frames/bts_10_top40_water_damage.mp4",
-      "bytes": 1797794,
-      "sha256": "f6cbf68bf8a734e0411bea9dfe442772117b9c76b9279c2afc2c4d082b3660c1",
+      "bytes": 1477921,
+      "sha256": "292a27abebbc2479a6ff4517cfcb33b839cce7834b2c47bbaf6694a2a54105d2",
       "source_bytes": 2410830,
       "source_sha256": "e60c63c65dbdc42e449f971453e85b900d2d8cd79da2e64d299e4a69544820c2"
     },
