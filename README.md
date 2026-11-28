@@ -6,7 +6,7 @@ Keep `index.html` beside `final_frames/` when publishing. The page loads its gal
 
 `frames/` is for development source media only and is not required to run or publish the site. The live page loads its local assets exclusively from `final_frames/`. `source_frames_map.md` describes the development archive; the source paths below record each asset's original location.
 
-68 published asset files: 44 images, 18 videos, 5 PDFs, and 1 directory map.
+105 published asset files: 79 images, 20 videos, 5 PDFs, and 1 directory map.
 
 Oversized media was optimized after copying. Every published file is below 19,000,000 bytes; videos processed in this optimization are below 18,000,000 bytes. MP4 and MOV outputs use H.264, AAC, and faststart; the MKV retains its container with its index at the front.
 
@@ -82,3 +82,40 @@ Oversized media was optimized after copying. Every published file is below 19,00
 | [recommendation_anurag_sinha.pdf](recommendation_anurag_sinha.pdf) | `lor-anurag-sinha.pdf` |
 | [recommendation_ayodele_lasisi.pdf](recommendation_ayodele_lasisi.pdf) | `lor-ayodele-lasisi.pdf` |
 | [recommendation_deepak_uprety.pdf](recommendation_deepak_uprety.pdf) | `lor-deepak-uprety.pdf` |
+| [05_samsung_partners.jpg](05_samsung_partners.jpg) | `new/program partners (put in winning 50 lakh one).jpg` |
+| [11_bootcamp_sri_noida.jpg](11_bootcamp_sri_noida.jpg) | `new/at the samsung research institute in noida (put in samsung top 40 ).jpg` |
+| [11_bootcamp_national_pitch.jpg](11_bootcamp_national_pitch.jpg) | `new/yash at the national pitch event (put in top40 bootcamp one).png` |
+| [bts_02_mumbai_checkin.jpg](bts_02_mumbai_checkin.jpg) | `bts/lodha genius mumbai meet/Delhiites check-in.jpg` |
+| [bts_02_mumbai_window.jpg](bts_02_mumbai_window.jpg) | `bts/lodha genius mumbai meet/mumbai view at eve from my window seat.jpg` |
+| [bts_02_mumbai_welcome.jpg](bts_02_mumbai_welcome.jpg) | `bts/lodha genius mumbai meet/welcome board at the ball room entry.jpg` |
+| [bts_02_mumbai_chowpatty.jpg](bts_02_mumbai_chowpatty.jpg) | `bts/lodha genius mumbai meet/rank away from hotel to chowpatty.jpg` |
+| [bts_02_mumbai_chuski.jpg](bts_02_mumbai_chuski.jpg) | `bts/lodha genius mumbai meet/enjoying chuski with dad.jpg` |
+| [bts_04_top20_itc_entry.jpg](bts_04_top20_itc_entry.jpg) | `bts/samsung top20/entry at itc maurya.jpg` |
+| [bts_04_top20_breakfast.jpg](bts_04_top20_breakfast.jpg) | `bts/samsung top20/breakfast, energy loading.jpg` |
+| [bts_04_top20_rehearsing.jpg](bts_04_top20_rehearsing.jpg) | `bts/samsung top20/rehearsing at morning before pitch event.HEIC` |
+| [bts_04_top20_dad.jpg](bts_04_top20_dad.jpg) | `bts/samsung top20/with dad at the pitch event.jpg` |
+| [bts_04_top20_grant.jpg](bts_04_top20_grant.jpg) | `bts/samsung top20/recieved prototyping grant.HEIC` |
+| [bts_04_top20_framed.jpg](bts_04_top20_framed.jpg) | `bts/samsung top20/framed some photographs.jpg` |
+| [bts_04_top20_crazy.jpg](bts_04_top20_crazy.jpg) | `bts/samsung top20/got crazy after winning.jpg` |
+| [bts_04_top20_prize_avi.jpg](bts_04_top20_prize_avi.jpg) | `bts/samsung top20/happy with prize with avi.HEIC` |
+| [bts_04_top20_dollysingh.jpg](bts_04_top20_dollysingh.jpg) | `bts/samsung top20/got interviewed by dollysingh fuhh.jpg` |
+| [bts_04_top20_animesh.jpg](bts_04_top20_animesh.jpg) | `bts/samsung top20/met animesh kujur, fastest 200m in india.HEIC` |
+| [bts_04_top20_gurindervir.jpg](bts_04_top20_gurindervir.jpg) | `bts/samsung top20/met the fastest man in india gurindervir.jpg` |
+| [bts_04_top20_flashlight.jpg](bts_04_top20_flashlight.jpg) | `bts/samsung top20/annoying my teammate at night with flashlight.HEIC` |
+| [bts_04_top20_last_day.jpg](bts_04_top20_last_day.jpg) | `bts/samsung top20/last day, so sad.jpg` |
+| [bts_08_scifair_tarang.jpg](bts_08_scifair_tarang.jpg) | `bts/science exhibition/my teammate tarang presenting project.jpg` |
+| [bts_08_scifair_juries.jpg](bts_08_scifair_juries.jpg) | `bts/science exhibition/with the juries of science exhibition.jpg` |
+| [bts_08_scifair_lunch.jpg](bts_08_scifair_lunch.jpg) | `bts/science exhibition/lunch break with teacher mentors.jpg` |
+| [bts_10_top40_blr_bus.jpg](bts_10_top40_blr_bus.jpg) | `bts/samsung top40/enjoying in bus from the blr airport to hotel.png` |
+| [bts_10_top40_headache.jpg](bts_10_top40_headache.jpg) | `bts/samsung top40/one of my peers facing headache due to exhaustive lectures.png` |
+| [bts_10_top40_contribution.jpg](bts_10_top40_contribution.jpg) | `bts/samsung top40/putting absolute highest contribution in group projects.png` |
+| [bts_10_top40_night_prep.jpg](bts_10_top40_night_prep.jpg) | `bts/samsung top40/prepping at night.png` |
+| [bts_10_top40_3am_rehearsal.mp4](bts_10_top40_3am_rehearsal.mp4) | `bts/samsung top40/3am pitch rehearsals (give this video unmute button, only this video among all).mp4` |
+| [bts_10_top40_pizza_1.jpg](bts_10_top40_pizza_1.jpg) | `bts/samsung top40/rooftop pizza party.png` |
+| [bts_10_top40_pizza_2.jpg](bts_10_top40_pizza_2.jpg) | `bts/samsung top40/2nd pizza party at night.png` |
+| [bts_10_top40_pizza_3.jpg](bts_10_top40_pizza_3.jpg) | `bts/samsung top40/3rd pizza party.png` |
+| [bts_10_top40_watchparty.jpg](bts_10_top40_watchparty.jpg) | `bts/samsung top40/4th movie watchparty at night.png` |
+| [bts_10_top40_pool.jpg](bts_10_top40_pool.jpg) | `bts/samsung top40/chilling at the pool.png` |
+| [bts_10_top40_water_damage.mp4](bts_10_top40_water_damage.mp4) | `bts/samsung top40/phone got water damage after pool party.mp4` |
+| [bts_10_top40_apple_store.jpg](bts_10_top40_apple_store.jpg) | `bts/samsung top40/in apple store with samsung tshirt fuuhh.png` |
+| [bts_10_top40_toy_train.jpg](bts_10_top40_toy_train.jpg) | `bts/samsung top40/hahaha, in toy train like kids.png` |

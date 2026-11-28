@@ -1,12 +1,12 @@
 {
-  "asset_count": 68,
+  "asset_count": 105,
   "counts": {
-    "images": 44,
-    "videos": 18,
+    "images": 79,
+    "videos": 20,
     "other": 1,
     "pdfs": 5
   },
-  "total_bytes": 293833539,
+  "total_bytes": 339379159,
   "assets": [
     {
       "source": "frames/01_lodha/felicitation by vice chancellor, Somak Raychaudhury.jpg",
@@ -369,8 +369,8 @@
     {
       "source": "frames/DIRECTORY_MAP.md",
       "file": "final_frames/source_frames_map.md",
-      "bytes": 2780,
-      "sha256": "349f013b5013dd78a36425f89b9246d02211d0dba768ac81135bed7ca58574ef"
+      "bytes": 7615,
+      "sha256": "820f1e89ef96b422464e0354fd45445ca9daa69f26336c88b654ca69cfc6f561"
     },
     {
       "source": "conference-presentation-certificate.pdf",
@@ -439,6 +439,272 @@
       "file": "final_frames/02_awards_infinitus_dps.jpg",
       "bytes": 145725,
       "sha256": "e9a67f1ae0c1625fbfb8e096f509f5f560d6c1b62665a8bdda7370a989a2d8dc"
+    },
+    {
+      "source": "new/program partners (put in winning 50 lakh one).jpg",
+      "file": "final_frames/05_samsung_partners.jpg",
+      "bytes": 8125406,
+      "sha256": "62d3ad0f9b7ef157cbd539a42d7f8e680caf2ab2e9c8f9070406f2ee3afcafc5"
+    },
+    {
+      "source": "new/at the samsung research institute in noida (put in samsung top 40 ).jpg",
+      "file": "final_frames/11_bootcamp_sri_noida.jpg",
+      "bytes": 921198,
+      "sha256": "7460fc2dbb1e648b5c1e13d86ad73b8dc6aa5ea1c6a4902188c413754d93d8b8"
+    },
+    {
+      "source": "new/yash at the national pitch event (put in top40 bootcamp one).png",
+      "file": "final_frames/11_bootcamp_national_pitch.jpg",
+      "bytes": 493992,
+      "sha256": "a3554592ebfafc8b1b3572cb1b5809324c040d58651cc9562db97ddd3a4b78f1",
+      "source_bytes": 20952227,
+      "source_sha256": "a6a245729eff362db9eb2765a856a7790367544f0d7d283fa13600f04b68cd4a"
+    },
+    {
+      "source": "bts/lodha genius mumbai meet/Delhiites check-in.jpg",
+      "file": "final_frames/bts_02_mumbai_checkin.jpg",
+      "bytes": 3253435,
+      "sha256": "253d4a2c477f370fb641b910163071156bfd57d6d29edba1ef56569dd8877aa3"
+    },
+    {
+      "source": "bts/lodha genius mumbai meet/mumbai view at eve from my window seat.jpg",
+      "file": "final_frames/bts_02_mumbai_window.jpg",
+      "bytes": 1872324,
+      "sha256": "66d722edf30ff77f8444fcdce3f29706282912de5578e936fe77c2f81f6fc3c7"
+    },
+    {
+      "source": "bts/lodha genius mumbai meet/welcome board at the ball room entry.jpg",
+      "file": "final_frames/bts_02_mumbai_welcome.jpg",
+      "bytes": 1238654,
+      "sha256": "7efdc2caaaa07cfacfae5609c6a946b58e861cf4bf010615f86a53442fb9a7d6"
+    },
+    {
+      "source": "bts/lodha genius mumbai meet/rank away from hotel to chowpatty.jpg",
+      "file": "final_frames/bts_02_mumbai_chowpatty.jpg",
+      "bytes": 3230931,
+      "sha256": "04870a1a386fcc8c52f8edc1cc883407b94a3d76153af8313ff974924ae2a4c4"
+    },
+    {
+      "source": "bts/lodha genius mumbai meet/enjoying chuski with dad.jpg",
+      "file": "final_frames/bts_02_mumbai_chuski.jpg",
+      "bytes": 251854,
+      "sha256": "bf688375632b5394f557b453ff251e86175cdffe2e6c9dc11bbca9b7b354419e",
+      "source_bytes": 7729278,
+      "source_sha256": "a956fae118857590aae7feae14f5e31b037975831939e59e7653f7a68f3035ba"
+    },
+    {
+      "source": "bts/samsung top20/entry at itc maurya.jpg",
+      "file": "final_frames/bts_04_top20_itc_entry.jpg",
+      "bytes": 362982,
+      "sha256": "614fe26ac1c449a2b4d8552831b73f03f82cbc1f8286971c984cf1fc17d12e02",
+      "source_bytes": 11086227,
+      "source_sha256": "b2d249fb7c0e7eaaf59a426670acce8dca5a34535039719a730270d310418b34"
+    },
+    {
+      "source": "bts/samsung top20/breakfast, energy loading.jpg",
+      "file": "final_frames/bts_04_top20_breakfast.jpg",
+      "bytes": 2375160,
+      "sha256": "9443496fcc6fb4e2f96ec79c06340022852e0149c500810ce102a06c14153435"
+    },
+    {
+      "source": "bts/samsung top20/rehearsing at morning before pitch event.HEIC",
+      "file": "final_frames/bts_04_top20_rehearsing.jpg",
+      "bytes": 553430,
+      "sha256": "d3fbb1605e9062dd3e35c599fc8f17d61640ba3c30b2976f83d99c0841456fbb",
+      "source_bytes": 3578287,
+      "source_sha256": "86af1f46d5c03c41dc173cc20128009b6fa32ee6a86d3d015caded087fd053a5"
+    },
+    {
+      "source": "bts/samsung top20/with dad at the pitch event.jpg",
+      "file": "final_frames/bts_04_top20_dad.jpg",
+      "bytes": 500136,
+      "sha256": "a1b677869eaabd7532480393451ef21986ad040d21573da76e841cc25d716faf"
+    },
+    {
+      "source": "bts/samsung top20/recieved prototyping grant.HEIC",
+      "file": "final_frames/bts_04_top20_grant.jpg",
+      "bytes": 342052,
+      "sha256": "08edc70692128343bb1e698cbdaacb866dd7a9fab5af79d35ef85e23ced41a2f",
+      "source_bytes": 2712023,
+      "source_sha256": "a300a48137b6ef2fd6659e21fe917189f6cdf98138a154a16ea9d14bbdf77ae5"
+    },
+    {
+      "source": "bts/samsung top20/framed some photographs.jpg",
+      "file": "final_frames/bts_04_top20_framed.jpg",
+      "bytes": 2651495,
+      "sha256": "9e25ffda6af56e54bc7e3a00f57a51b94502390a179bb7e4dda292547937995c"
+    },
+    {
+      "source": "bts/samsung top20/got crazy after winning.jpg",
+      "file": "final_frames/bts_04_top20_crazy.jpg",
+      "bytes": 1055981,
+      "sha256": "ada8a264e9b924da57655e6e5928ccb866fb10a5764fc04fdd63078481fe5007"
+    },
+    {
+      "source": "bts/samsung top20/happy with prize with avi.HEIC",
+      "file": "final_frames/bts_04_top20_prize_avi.jpg",
+      "bytes": 243024,
+      "sha256": "23a1d3c4e7476b4a34eb626ad87dda85ec7617d7ef11a91068f8cf0c9143ce21",
+      "source_bytes": 1450115,
+      "source_sha256": "f35f0aed370a5ca8e1b643a6a2a4c519206319d083fa83926dece5765cdba4ea"
+    },
+    {
+      "source": "bts/samsung top20/got interviewed by dollysingh fuhh.jpg",
+      "file": "final_frames/bts_04_top20_dollysingh.jpg",
+      "bytes": 120375,
+      "sha256": "b9156c77ba0962b479e45e28888faf81ee12b0e3f0f6c75cb3d3fe90647bf851"
+    },
+    {
+      "source": "bts/samsung top20/met animesh kujur, fastest 200m in india.HEIC",
+      "file": "final_frames/bts_04_top20_animesh.jpg",
+      "bytes": 357940,
+      "sha256": "abb209927dc8b04f4265390f3df8872e4a15a657b332c784e9034d96fac91095",
+      "source_bytes": 2825194,
+      "source_sha256": "ac3112d04a4821f5426172bda24f10db61f44b9caf92931691cc48fb635bb80d"
+    },
+    {
+      "source": "bts/samsung top20/met the fastest man in india gurindervir.jpg",
+      "file": "final_frames/bts_04_top20_gurindervir.jpg",
+      "bytes": 113981,
+      "sha256": "aa06738232ef5556bad139a6ef53b6f2d3646a745d0661bde573d7504c6c6cf1"
+    },
+    {
+      "source": "bts/samsung top20/annoying my teammate at night with flashlight.HEIC",
+      "file": "final_frames/bts_04_top20_flashlight.jpg",
+      "bytes": 206807,
+      "sha256": "fbe7025dbd9b6772a30b4436e35023e996788cdb372dbd24ccb77ec1df6ae80e",
+      "source_bytes": 1492286,
+      "source_sha256": "38dd8b39d9320c4933aebc3aab6cec24b7dff9d3f68106448c372899fdd5d91f"
+    },
+    {
+      "source": "bts/samsung top20/last day, so sad.jpg",
+      "file": "final_frames/bts_04_top20_last_day.jpg",
+      "bytes": 302215,
+      "sha256": "70cf9fcabb617ab88d7effbb1c97a5031a475f1f0dc0dd4932e07c6f34b334f8",
+      "source_bytes": 2444388,
+      "source_sha256": "dbecdd4d35b74352980a133f6a1e791a0b12f422dfe6c2fa0d381a265e719fa0"
+    },
+    {
+      "source": "bts/science exhibition/my teammate tarang presenting project.jpg",
+      "file": "final_frames/bts_08_scifair_tarang.jpg",
+      "bytes": 159312,
+      "sha256": "6129df1b421eaedcd65b74061898b494f901dbde70e3a5f20aa0cb487287bd4b"
+    },
+    {
+      "source": "bts/science exhibition/with the juries of science exhibition.jpg",
+      "file": "final_frames/bts_08_scifair_juries.jpg",
+      "bytes": 107149,
+      "sha256": "bd44f34c4af29b88b9a2ebe03b07875b8efc71b91938a0fef85cc5a7cd32025e"
+    },
+    {
+      "source": "bts/science exhibition/lunch break with teacher mentors.jpg",
+      "file": "final_frames/bts_08_scifair_lunch.jpg",
+      "bytes": 3954293,
+      "sha256": "a368c30a25d5b874340ee1b5cdc115fbabc883fbf013036ffa7be37343cc816e"
+    },
+    {
+      "source": "bts/samsung top40/enjoying in bus from the blr airport to hotel.png",
+      "file": "final_frames/bts_10_top40_blr_bus.jpg",
+      "bytes": 314663,
+      "sha256": "e97c50bf7f074e913625cb570030134b51cd7afbcb088bc9b85517307b21b33e",
+      "source_bytes": 9337578,
+      "source_sha256": "ed57e999ef6159db203ca4598a7d0e4c7fdd7255a749f0d8cd2dc56029fcc6a3"
+    },
+    {
+      "source": "bts/samsung top40/one of my peers facing headache due to exhaustive lectures.png",
+      "file": "final_frames/bts_10_top40_headache.jpg",
+      "bytes": 375059,
+      "sha256": "ec82882abc1496c4f037b1314c4879f818f96025a379c5a55770300215acea22",
+      "source_bytes": 9280133,
+      "source_sha256": "ad9f1a649cb04d33b73a2eaf1daece85122fac3559fd013a6a38d7c4778f6276"
+    },
+    {
+      "source": "bts/samsung top40/putting absolute highest contribution in group projects.png",
+      "file": "final_frames/bts_10_top40_contribution.jpg",
+      "bytes": 363073,
+      "sha256": "ea2f54a77a19d7f9a7f3f3d2a7b25e4f9a385fd953d35242ee08b2c4f1508099",
+      "source_bytes": 17844259,
+      "source_sha256": "24c2a90c40fdd9968757184a1bde87776f743af00c5bc16e868383abc8224cf2"
+    },
+    {
+      "source": "bts/samsung top40/prepping at night.png",
+      "file": "final_frames/bts_10_top40_night_prep.jpg",
+      "bytes": 384391,
+      "sha256": "e810563e3bf202c180a9486342b3eac56471c14d1151e7e62b552316b3d57860",
+      "source_bytes": 10389135,
+      "source_sha256": "8595a065d6cd969b5a12ef7e727be83a6cdab2c0373ef7170ca0a61aca63a769"
+    },
+    {
+      "source": "bts/samsung top40/3am pitch rehearsals (give this video unmute button, only this video among all).mp4",
+      "file": "final_frames/bts_10_top40_3am_rehearsal.mp4",
+      "bytes": 6750159,
+      "sha256": "37c447c21795652e45860ecbcd9d51a8c3392a8f8a1f327eb571949923f9e3c2",
+      "source_bytes": 5746221,
+      "source_sha256": "5d1b85198eb8d745fadc73c81dd5e4abee80229f7a8cb76ce2b52ee68d13ba68"
+    },
+    {
+      "source": "bts/samsung top40/rooftop pizza party.png",
+      "file": "final_frames/bts_10_top40_pizza_1.jpg",
+      "bytes": 503164,
+      "sha256": "2cfc5833bb440b66d7acfbcb1a05e4b1c627c121c441fbe6db1eac13027fe0ba",
+      "source_bytes": 12093514,
+      "source_sha256": "bd8bf0809de6bd46749e3c9a3c7a2f0f3ac18a89ea524929c06d93b9c1fccdaf"
+    },
+    {
+      "source": "bts/samsung top40/2nd pizza party at night.png",
+      "file": "final_frames/bts_10_top40_pizza_2.jpg",
+      "bytes": 249233,
+      "sha256": "d5f5027e9c7614b595cf2ea368b059ee7d582b5fb5194cc571c9442a201fcbf2",
+      "source_bytes": 7617524,
+      "source_sha256": "2e94221c078db67116b5a837475485aa317770d85b25a9d9a36d66fa6a1f54ff"
+    },
+    {
+      "source": "bts/samsung top40/3rd pizza party.png",
+      "file": "final_frames/bts_10_top40_pizza_3.jpg",
+      "bytes": 403572,
+      "sha256": "d24597bc01911942f7022f5cf3a3ef748e72210756ea1f1f6716387c759761f8",
+      "source_bytes": 18455583,
+      "source_sha256": "82ea204cb0befbf75b7a0fcd241e484627296a83c1c0c655cdead5a5961cfa7d"
+    },
+    {
+      "source": "bts/samsung top40/4th movie watchparty at night.png",
+      "file": "final_frames/bts_10_top40_watchparty.jpg",
+      "bytes": 426437,
+      "sha256": "452173bab13bf655e3fe005ad9444399b1b625ec6231729b0edbd3ed531da28d",
+      "source_bytes": 20019874,
+      "source_sha256": "45fbc2e4aaef70029e62e490c208ceafa5fe35da7349ef532749bfd92cb36b14"
+    },
+    {
+      "source": "bts/samsung top40/chilling at the pool.png",
+      "file": "final_frames/bts_10_top40_pool.jpg",
+      "bytes": 440833,
+      "sha256": "831ec30f573a33ad073e631f2d14e37c932d06fcd40f3c7c547101bb7f7d0f80",
+      "source_bytes": 10012016,
+      "source_sha256": "2920c911e9629edfb28c7658ec1b0a5ec300fb3442a3db246383bc919f888376"
+    },
+    {
+      "source": "bts/samsung top40/phone got water damage after pool party.mp4",
+      "file": "final_frames/bts_10_top40_water_damage.mp4",
+      "bytes": 1797794,
+      "sha256": "f6cbf68bf8a734e0411bea9dfe442772117b9c76b9279c2afc2c4d082b3660c1",
+      "source_bytes": 2410830,
+      "source_sha256": "e60c63c65dbdc42e449f971453e85b900d2d8cd79da2e64d299e4a69544820c2"
+    },
+    {
+      "source": "bts/samsung top40/in apple store with samsung tshirt fuuhh.png",
+      "file": "final_frames/bts_10_top40_apple_store.jpg",
+      "bytes": 287120,
+      "sha256": "9b24e6cc7ed66c4e252bb2790f2a7bae26f9cdbf939e0476d9d386a56ec0da30",
+      "source_bytes": 17133087,
+      "source_sha256": "f534d9cfa67c356604f50a4ee54154a54355266b4330a4af37ec3e255c8f4196"
+    },
+    {
+      "source": "bts/samsung top40/hahaha, in toy train like kids.png",
+      "file": "final_frames/bts_10_top40_toy_train.jpg",
+      "bytes": 451161,
+      "sha256": "088709608e5f4976a8173bef565deda3dda175bdb7fe6cc8cb3152186a00553d",
+      "source_bytes": 17729984,
+      "source_sha256": "0e14e02a3554588c8de764685675a9585f4e68a6c2fdb832a984e7896e71bc2b"
     }
   ]
 }
